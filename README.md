@@ -1,6 +1,6 @@
 - 👋 Hi, Myself Divyansh
 - 👀 I’m interested in different activities   
-- 🌱 I’m currently learning coding in C language   
+- 🌱 I’m currently learning coding in C++ language   
 - 💞️ I’m looking to collaborate on _
 - 📫 How to reach me _ 
 - 😄 Pronouns: He/His/Him
